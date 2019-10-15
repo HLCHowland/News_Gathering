@@ -576,7 +576,7 @@ def monitor(mainMenuAfter):
 
 
 
-#Checks for additional argument with program call that allows the program to go straight to monitoring mode. Very useful
+#Checks for additional arguments with program call that allows the program to go straight to monitoring mode. Very useful
     #for checks with crontab.
 def initialization():
     try:
